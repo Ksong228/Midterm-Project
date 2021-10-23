@@ -1,8 +1,8 @@
-[Favorites](MyFavorites.md)
+[My Favorites](MyFavorites.md)
 
 [My Enjoyments](/Enjoyment.md)
 
-[Courses](/Courses.md)
+[My Courses](/Courses.md)
 
 [My Code](/Code.md)
 
