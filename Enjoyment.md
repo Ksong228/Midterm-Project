@@ -4,6 +4,8 @@
 
 2. I like to watch tv-shows/movies.
 
+  - Streaming service: [Netflix](https://www.netflix.com/)
+
 - I also like to watch YouTube videos.
 
   [YouTube](https://www.youtube.com/)
