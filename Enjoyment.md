@@ -6,7 +6,7 @@
 
   - Streaming service: [Netflix](https://www.netflix.com/)
 
-- I also like to watch YouTube videos.
+- I also like to watch *YouTube* videos.
 
   [YouTube](https://www.youtube.com/)
 
