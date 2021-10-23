@@ -1,3 +1,11 @@
+[Home](/README.md)
+
+[My Favorites](MyFavorites.md)
+
+[My Enjoyments](/Enjoyment.md)
+
+[My Code](/Code.md)
+
 # My Courses for Fall 2021
 
 1. STAT 2500
