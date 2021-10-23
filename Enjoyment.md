@@ -10,3 +10,7 @@
 
 
 ![Infernal Skins LOL](https://user-images.githubusercontent.com/82920624/138539156-7c926473-f3c6-49b5-aac4-ca32da1d854d.jpg)
+
+[Home](/README.md)
+
+[Favorites](/MyFavorites.md)
