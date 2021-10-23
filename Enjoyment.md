@@ -1,3 +1,11 @@
+[Home](/README.md)
+
+[My Favorites](/MyFavorites.md)
+
+[My Courses](/Courses.md)
+
+[My Code](/Code.md)
+
 # The Things I Like to Do in My Free Time
 
 1. I like to listen to music.
@@ -16,7 +24,3 @@
 
 
 ![Infernal Skins LOL](https://user-images.githubusercontent.com/82920624/138539156-7c926473-f3c6-49b5-aac4-ca32da1d854d.jpg)
-
-[Home](/README.md)
-
-[Favorites](/MyFavorites.md)
