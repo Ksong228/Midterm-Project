@@ -1,10 +1,10 @@
 [Home](/README.md)
 
-[Favorites](/MyFavorites.md)
+[My Favorites](/MyFavorites.md)
 
 [My Enjoyments](/Enjoyment.md)
 
-[Courses](/Courses.md)
+[My Courses](/Courses.md)
 
 ### My FizzBuzz Challenge Code
 
