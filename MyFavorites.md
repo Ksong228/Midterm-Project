@@ -3,6 +3,9 @@
 [My Enjoyments](/Enjoyment.md)
 
 [My Courses](/Courses.md)
+
+[My Code](/Code.md)
+
 # My Favorites
 
 My favorite color is **blue**.
