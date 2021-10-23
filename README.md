@@ -1,4 +1,12 @@
-# Midterm-Project
+[Favorites](MyFavorites.md)
+
+[My Enjoyments](/Enjoyment.md)
+
+[Courses](/Courses.md)
+
+[My Code](/Code.md)
+
+# Midterm Project
 
 ## About Me
 
